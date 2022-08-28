@@ -3,7 +3,6 @@
 import 'package:hive/hive.dart';
 import 'package:hive_service/src/exception/exception.dart';
 
-
 class HiveService<T> {
   const HiveService(this.box);
 
